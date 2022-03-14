@@ -2,8 +2,8 @@
 <h3 align="center"></h3>
 
 <p align="center">
-	<a href="https://github.com/UmbertoSavoia/UmbertoSavoia">
-	  <img src="https://komarev.com/ghpvc/?username=UmbertoSavoia" alt="page views" />
+	<a href="https://github.com/chevoisiatesalvati/chevoisiatesalvati">
+	  <img src="https://komarev.com/ghpvc/?username=chevoisiatesalvati" alt="page views" />
 	</a>
 	<a href="https://github.com/chevoisiatesalvati?tab=followers">
 	  <img alt="GitHub followers" src="https://img.shields.io/github/followers/chevoisiatesalvati?color=green&logo=github">
@@ -13,11 +13,13 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="chrome" width="40" height="40"/>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="chrome" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
