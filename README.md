@@ -1,14 +1,5 @@
-<h1 align="left" id="chevoisiatesalvati-title">:wave: Hi! I'm chevoisiatesalvati</h1>
+<h1 align="left" id="chevoisiatesalvati-title">:wave: Welcome folks!</h1>
 <h3 align="center"></h3>
-
-<p align="center">
-	<a href="https://github.com/chevoisiatesalvati/chevoisiatesalvati">
-	  <img src="https://komarev.com/ghpvc/?username=chevoisiatesalvati" alt="page views" />
-	</a>
-	<a href="https://github.com/chevoisiatesalvati?tab=followers">
-	  <img alt="GitHub followers" src="https://img.shields.io/github/followers/chevoisiatesalvati?color=green&logo=github">
-	</a>
-</p>
 
 ## 🔧 Technologies & Tools
 
@@ -32,8 +23,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=chevoisiatesalvati&show_icons=true&count_private=true" alt="chevoisiatesalvati" />
+	<img src="https://github-readme-stats.vercel.app/api?username=chevoisiatesalvati&theme=dark&show_icons=true&count_private=true" alt="chevoisiatesalvati" />
 </p>
 <p align="center">
-	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=chevoisiatesalvati&layout=compact&cache_seconds=1800" alt="chevoisiatesalvati" />
+	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=chevoisiatesalvati&theme=dark&layout=compact&cache_seconds=1800" alt="chevoisiatesalvati" />
 </p>
