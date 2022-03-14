@@ -1,5 +1,4 @@
 <h1 align="left" id="chevoisiatesalvati-title">:wave: Welcome folks!</h1>
-<h3 align="center"></h3>
 
 ## 🔧 Technologies & Tools
 
