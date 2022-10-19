@@ -1,4 +1,4 @@
-<h1 align="left" id="chevoisiatesalvati-title">:wave: Welcome to my Github! :)</h1>
+<h1 align="left" id="chevoisiatesalvati-title">:see_no_evil: Welcome to my Github! :hear_no_evil:</h1>
 
 ## &#x1f4c8; GitHub Stats
 <div>
